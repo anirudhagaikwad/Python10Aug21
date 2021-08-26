@@ -51,3 +51,6 @@ Write Programms and share code via github or snapshot
 
 18) Write program to generate equated monthly instalments (EMI)(intrest 5%/Month) of 3 year and 5 year of amount 161258/-
 
+19) write program to handle below exceptions- each except block handle only one exception
+-NameError,OverflowError,SyntaxError,IdentationError,TypeError,UnboundLocalError,ValueError,ZeroDivisionError
+
