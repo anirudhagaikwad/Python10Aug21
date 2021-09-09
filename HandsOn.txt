@@ -54,3 +54,10 @@ Write Programms and share code via github or snapshot
 19) write program to handle below exceptions- each except block handle only one exception
 -NameError,OverflowError,SyntaxError,IdentationError,TypeError,UnboundLocalError,ValueError,ZeroDivisionError
 
+
+20) Write a program to generate console base invoice (Mini Project     Duration - 3 days)
+-- Add products with price
+-- show product list
+-- generate invoice (bill)
+   
+
