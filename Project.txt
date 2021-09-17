@@ -1,0 +1,9 @@
+Project 
+
+Create Billing Syatem for Dr.Clinic
+as per following Application
+http://clinicbdemo.herokuapp.com/
+abcd - Admin@2021
+Use Tkinter for same.
+
+Submit your project before 25 Sept 2021

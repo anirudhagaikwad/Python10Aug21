@@ -1,0 +1,4 @@
+Assignment
+
+Observe TextEditor.py and add some more functionality to it .
+like - Cut,Copy,Paste
