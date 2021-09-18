@@ -6,4 +6,4 @@ http://clinicbdemo.herokuapp.com/
 abcd - Admin@2021
 Use Tkinter for same.
 
-Submit your project before 25 Sept 2021
+Submit your project before 27 Sept 2021 and 28 sept is presentation day
